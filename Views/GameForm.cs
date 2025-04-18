@@ -1,8 +1,8 @@
 namespace ConnectFourBR
 {
-    public partial class MainForm : Form
+    public partial class GameForm : Form
     {
-        public MainForm()
+        public GameForm()
         {
             InitializeComponent();
         }
