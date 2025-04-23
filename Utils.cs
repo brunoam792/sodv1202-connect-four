@@ -3,8 +3,7 @@ using System;
 
 namespace ConnectFour
 {
-    // ---------------------- Utils Class ----------------------
-    // This class provides static utility methods for console I/O.
+  
     public static class Utils
     {
 // Displays the welcome message and basic instructions.
